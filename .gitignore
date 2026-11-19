@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+*.class
+target/
+build/
+dist/
+.idea/
+*.iml
+.env
